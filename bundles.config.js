@@ -942,6 +942,12 @@ exports.extensionBundles = [
     latestVersion: '0.1',
     type: TYPES.MISC,
   },
+  {
+    name: 'amp-ivs-video',
+    version: '0.1',
+    latestVersion: '0.1',
+    type: TYPES.MEDIA
+  }, 
 ];
 
 exports.aliasBundles = [
